@@ -1,0 +1,10 @@
+2025-04-19 01:33:51 [INFO] === INICIO DE SESIÓN - Discord Whisper Overlay ===
+2025-04-19 01:33:51 [INFO] Configuración: Modelo=base, Dispositivo=cuda, GPU=True
+2025-04-19 01:33:51 [INFO] Iniciando Discord Whisper Overlay
+2025-04-19 01:33:53 [INFO] [MIC] Iniciando bucle de transcripción con modelo base
+2025-04-19 01:33:53 [INFO] [DISCORD] Iniciando bucle de transcripción con modelo base
+2025-04-19 01:33:53 [INFO] Iniciando registro de estadísticas periódicas
+2025-04-19 01:33:53 [INFO] Sistema iniciado completamente. Aplicación operativa.
+2025-04-19 01:34:02 [INFO] [MIC] [01:34:02] Tú: Esto está empezando a hacer cosas, confianza: 0.55, tiempo: 0.31s
+2025-04-19 01:34:20 [INFO] [MIC] Silencio prolongado (5.9s), reiniciando contexto
+2025-04-19 01:34:24 [INFO] [MIC] [01:34:24] Tú: y y y, confianza: 0.53, tiempo: 0.98s
